@@ -15,6 +15,6 @@ Run the program
 	
 # Images
 
-![image](/bin/assetes/movies2.png)
+![image](/bin/assets/movies2.png)
 
 ![image](/bin/assets/movies.png)
