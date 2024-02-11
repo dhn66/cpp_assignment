@@ -1,4 +1,4 @@
-# CPP Assignments
+# CPP Assignment
 
 GUI C++ program
 
