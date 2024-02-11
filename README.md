@@ -1,4 +1,4 @@
-# MoviesLib
+# CPP Assignments
 
 GUI C++ program
 
